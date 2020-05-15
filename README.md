@@ -1,5 +1,5 @@
 <html lang="en">
-<head></head>
+<head>
     <meta charset="UTF8">
     <title>石月乔档案</title>
     <link rel="stylesheet" type="text/css" href="style.css">
