@@ -3,9 +3,7 @@
     <meta charset="UTF8">
     <title>石月乔档案</title>
     <link rel="stylesheet" type="text/css" href="style.css">
-
 </head>
-
 <body>
     <section class="animation">
         <img class="firstbeijing" src="开头.jpg" alt="firstbeijing">
@@ -17,7 +15,6 @@
         <img class="textcenter" src="字中.png">
         <img class="textright" src="字右.png">
     </section>
-
     <section class="animation1">
         <img class="syqzuo" src="人物左.jpg">
         <img class="syqzhong" src="人物中.jpg">
@@ -30,9 +27,7 @@
         <img class="syqduli" src="人抠图.png">
         <img class="yuanquan" src="圆圈.png">
         <img class="nenglizhi" src="能力图.png">
-        
     </section>
-    
     <section class="animation2">
         <img class="gif1" src="first-gif.gif">
         <img class="white" src="白色.jpg">
@@ -69,15 +64,6 @@
     <div class="fengdi">
         <img class="fengditu" src="封底白.jpg" width="1800px">
     </div>
-
-
-
-
-
-
-
-
-    
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.6/ScrollMagic.min.js" integrity="sha256-BCkpwV5o3ac9GC/aFo4/lgrzwRHvUNJaacC42YZSkKw=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.6/plugins/debug.addIndicators.js" integrity="sha256-WnoGH9XJtoF+eU+6une10vhz03jln7s6Z7wHP1RRNgs=" crossorigin="anonymous"></script>
